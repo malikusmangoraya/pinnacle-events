@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pinnacle-events.com/sitemap.xml
